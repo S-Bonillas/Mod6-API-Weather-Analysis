@@ -19,10 +19,10 @@ Project is housed within the PyWeather folder.
 - Originals Folder (Provided Starter Documents)
 
 PyWeather > Resources > Originals contains:
-- Fig1.png(File)
+- Fig1.png
 - Fig2.png
 - Fig3.png
 - Fig4.png
 - VacationPy_Original.ipynb
 - WeatherPy_Original.ipynb
-- api_keys_original.py
+- api_keys_original.py (dummy apis)
